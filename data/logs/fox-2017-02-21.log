@@ -1,0 +1,2 @@
+[2017-02-21 06:05:53] Fox.ERROR: Display Error: , Code: 404 URL: /?entryPoint=Bill [] []
+[2017-02-21 06:05:53] Fox.ERROR: Uncaught Exception Slim\Exception\Stop: "" at F:\project\work\lljy\vendor\slim\slim\Slim\Slim.php line 1020 {"exception":"[object] (Slim\\Exception\\Stop(code: 0):  at F:\\project\\work\\lljy\\vendor\\slim\\slim\\Slim\\Slim.php:1020)"} []

@@ -1,0 +1,62 @@
+{
+    "id": "1",
+    "timeZone": "Asia\/Shanghai",
+    "dateFormat": "YYYY-MM-DD",
+    "timeFormat": "HH:mm",
+    "weekStart": 1,
+    "defaultCurrency": "USD",
+    "thousandSeparator": ",",
+    "decimalMark": ".",
+    "dashboardLayout": [
+        {
+            "name": "My Fox",
+            "layout": [
+                {
+                    "id": "default-tasks",
+                    "name": "Tasks",
+                    "x": 2,
+                    "y": 0,
+                    "width": 2,
+                    "height": 2
+                },
+                {
+                    "id": "default-activities",
+                    "name": "Activities",
+                    "x": 2,
+                    "y": 2,
+                    "width": 2,
+                    "height": 2
+                },
+                {
+                    "id": "d256928",
+                    "name": "Stream",
+                    "x": 0,
+                    "y": 2,
+                    "width": 2,
+                    "height": 2
+                },
+                {
+                    "id": "d655967",
+                    "name": "Leads",
+                    "x": 0,
+                    "y": 0,
+                    "width": 2,
+                    "height": 2
+                }
+            ]
+        }
+    ],
+    "dashletsOptions": [],
+    "smtpServer": "",
+    "smtpPort": 25,
+    "smtpAuth": false,
+    "smtpSecurity": "",
+    "language": "zh_CN",
+    "exportDelimiter": ";",
+    "receiveAssignmentEmailNotifications": true,
+    "signature": "<p><br><\/p>",
+    "defaultReminders": [],
+    "theme": "FoxVertical",
+    "useCustomTabList": false,
+    "emailReplyToAllByDefault": true
+}

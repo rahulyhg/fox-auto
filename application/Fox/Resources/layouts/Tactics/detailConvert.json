@@ -1,0 +1,13 @@
+[
+    {
+        "label":"Overview",
+        "rows": [
+            [{"name":"name"}, {"name":"v1"}, {"name":"v2"}],
+            [{"name":"v3"}, {"name":"v4"}, false],
+            [{"name":"status"}, {"name": "auditBy"}, {"name": "auditAt"}],
+
+            [{"name":"createdAt"}, {"name":"createdBy"}, false],
+            [{"name": "reason"}, {"name": "desc"}]
+        ]
+    }
+]

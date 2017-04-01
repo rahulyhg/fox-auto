@@ -1,0 +1,1 @@
+[2017-02-08 03:48:53] Fox.ERROR: Uncaught Exception PDOException: "SQLSTATE[HY000] [1049] Unknown database 'lljy'" at F:\project\work\lljy\application\Fox\ORM\EntityManager.php line 112 {"exception":"[object] (PDOException(code: 1049): SQLSTATE[HY000] [1049] Unknown database 'lljy' at F:\\project\\work\\lljy\\application\\Fox\\ORM\\EntityManager.php:112)"} []

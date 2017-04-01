@@ -1,0 +1,2 @@
+[2017-03-16 02:50:01] Jqh.WARNING: E_WARNING: array_merge(): Argument #1 is not an array {"code":2,"message":"array_merge(): Argument #1 is not an array","file":"F:\\project\\auto\\jqh\\application\\Fox\\Core\\Utils\\Config.php","line":271} []
+[2017-03-16 02:50:01] Jqh.WARNING: E_WARNING: Invalid argument supplied for foreach() {"code":2,"message":"Invalid argument supplied for foreach()","file":"F:\\project\\auto\\jqh\\application\\Fox\\Core\\Utils\\Config.php","line":208} []

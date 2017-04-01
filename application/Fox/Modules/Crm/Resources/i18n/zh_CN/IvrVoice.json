@@ -1,0 +1,15 @@
+{
+    "fields": {
+        "name": "IVR语音文件名称",
+        "description": "描述",
+        "play": "播放语音",
+        "down": "下载语音"
+    },
+    "labels": {
+        "Create IvrVoice": "上传IVR语音",
+        "IvrVoice": "IVR语音"
+    },
+    "options": {
+        "status": {}
+    }
+}

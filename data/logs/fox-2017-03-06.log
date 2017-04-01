@@ -1,0 +1,2 @@
+[2017-03-06 06:09:00] Fox.ERROR: API [GET]:/:controller, Params:Array (     [controller] => Encashment ) , InputData:  - SQLSTATE[42S22]: Column not found: 1054 Unknown column 'encashment.desc' in 'field list' [] []
+[2017-03-06 06:09:00] Fox.ERROR: Display Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'encashment.desc' in 'field list', Code: 42S22 URL: /api/v1/Encashment?maxSize=20&offset=0&sortBy=createdAt&asc=true [] []

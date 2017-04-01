@@ -1,0 +1,11 @@
+[
+    {
+        "label":"",
+        "rows":[
+              [{"name":"name"}, false],
+              [{"name":"balances"}, {"name":"blockedBalances"}],
+              [{"name":"openId"}, false],
+              [{"name":"parent"}, false]
+            ]
+        }
+]

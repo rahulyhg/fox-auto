@@ -1,0 +1,6 @@
+[2017-03-20 17:49:13] Jqh.ERROR: API [GET]:/:controller, Params:Array (     [controller] => Orders ) , InputData:  - SQLSTATE[42S02]: Base table or view not found: 1146 La table 'zzcrm_dev.orders' n'existe pas [] []
+[2017-03-20 17:49:14] Jqh.ERROR: Display Error: SQLSTATE[42S02]: Base table or view not found: 1146 La table 'zzcrm_dev.orders' n'existe pas, Code: 42S02 URL: /api/v1/Orders?maxSize=20&offset=0&sortBy=name&asc=true [] []
+[2017-03-20 17:49:27] Jqh.ERROR: API [GET]:/:controller, Params:Array (     [controller] => Orders ) , InputData:  - SQLSTATE[42S02]: Base table or view not found: 1146 La table 'zzcrm_dev.orders' n'existe pas [] []
+[2017-03-20 17:49:27] Jqh.ERROR: Display Error: SQLSTATE[42S02]: Base table or view not found: 1146 La table 'zzcrm_dev.orders' n'existe pas, Code: 42S02 URL: /api/v1/Orders?maxSize=20&offset=0&sortBy=name&asc=true [] []
+[2017-03-20 17:55:26] Jqh.ERROR: API [GET]:/:controller, Params:Array (     [controller] => Orders ) , InputData:  - SQLSTATE[42S02]: Base table or view not found: 1146 La table 'zzcrm_dev.orders' n'existe pas [] []
+[2017-03-20 17:55:26] Jqh.ERROR: Display Error: SQLSTATE[42S02]: Base table or view not found: 1146 La table 'zzcrm_dev.orders' n'existe pas, Code: 42S02 URL: /api/v1/Orders?maxSize=20&offset=0&sortBy=name&asc=true [] []

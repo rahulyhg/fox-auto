@@ -1,0 +1,11 @@
+<?php
+return array (
+  'stylesheet' => 'client/css/fox-vertical.css',
+  'navbarIsVertical' => true,
+  'navbarStaticItemsHeight' => 65,
+  'recordTopButtonsStickTop' => 61,
+  'recordTopButtonsBlockHeight' => 21,
+  'dashboardCellHeight' => 155,
+  'dashboardCellMargin' => 19,
+);
+?>

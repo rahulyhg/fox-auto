@@ -1,0 +1,87 @@
+{
+   "system":{
+      "label":"System",
+      "items":[
+         {
+            "url":"#Admin/settings",
+            "label":"Settings",
+            "description":"settings"
+         },
+         {
+            "url":"#Admin/userInterface",
+            "label":"User Interface",
+            "description":"userInterface"
+         },
+         {
+            "url":"#Admin/clearCache",
+            "label":"Clear Cache",
+            "description":"clearCache"
+         }
+      ]
+   },
+   "users":{
+      "label":"Users",
+      "items":[
+         {
+            "url":"#User",
+            "label":"Users",
+            "description":"users"
+         },
+         {
+            "url":"#Team",
+            "label":"Teams",
+            "description":"teams"
+         },
+         {
+            "url":"#Role",
+            "label":"Roles",
+            "description":"roles"
+         },
+         {
+            "url":"#Admin/authTokens",
+            "label":"Auth Tokens",
+            "description":"authTokens"
+         }
+      ]
+   },
+   "customization":{
+      "label":"Customization",
+      "items":[
+         {
+            "url":"#Admin/layouts",
+            "label":"Layout Manager",
+            "description":"layoutManager"
+         },
+         {
+            "url":"#Admin/entityManager",
+            "label":"Entity Manager",
+            "description":"entityManager"
+         }
+      ]
+   },
+   "email":{
+      "label":"Email",
+      "items":[
+         {
+            "url":"#Admin/outboundEmails",
+            "label":"Outbound Emails",
+            "description":"outboundEmails"
+         },
+         {
+            "url":"#Admin/inboundEmails",
+            "label":"Inbound Emails",
+            "description":"inboundEmails"
+         }
+      ]
+   },
+   "data":{
+      "label":"Data",
+      "items":[
+         {
+            "url":"#Import",
+            "label":"Import",
+            "description":"import"
+         }
+      ]
+   }
+}

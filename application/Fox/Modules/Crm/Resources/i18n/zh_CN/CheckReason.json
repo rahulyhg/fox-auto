@@ -1,0 +1,16 @@
+{
+    "fields": {
+        "name": "理由",
+        "status": "类型"
+    },
+    "labels": {
+        "Create CheckReason": "创建审核理由",
+        "CheckReason": "审核理由"
+    },
+    "options": {
+        "status": {
+		"0": "通过理由",
+		"1": "拒绝理由"
+	}
+    }
+}

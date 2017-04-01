@@ -1,0 +1,14 @@
+<?php
+return array (
+  'entity' => true,
+  'layouts' => false,
+  'tab' => true,
+  'acl' => false,
+  'aclPortal' => 'recordAllNo',
+  'module' => 'Crm',
+  'customizable' => false,
+  'importable' => true,
+  'notifications' => false,
+  'object' => true,
+);
+?>

@@ -1,0 +1,31 @@
+{
+    "fields": {
+        "type": {
+            "type": "enum",
+            "options": ["Tactics","SetMeal","OrdersLimit","Orders"],
+            "default": "Orders",
+            "required": true
+        },
+        "status": {
+            "type": "enum",
+            "options": [1, 2],
+            "default": 1
+        },
+        "name": {
+            "type": "varchar"
+        }
+
+    },
+    "links": {
+
+    },
+    "collection": {
+        "sortBy": "name",
+        "asc": true
+    },
+    "indexes": {
+        "name": {
+            "columns": ["name", "deleted"]
+        }
+    }
+}

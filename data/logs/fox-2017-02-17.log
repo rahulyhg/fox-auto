@@ -1,0 +1,4 @@
+[2017-02-17 08:42:13] Fox.ERROR: SQL ERROR => 42S02: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'zzcrm_dev.enchashment' doesn't exist [] []
+[2017-02-17 08:42:13] Fox.ERROR: 提现余额记录失败！ {"id":"23213ddas","money":"12"} []
+[2017-02-17 08:43:16] Fox.ERROR: 42S02: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'zzcrm_dev.enchashment' doesn't exist [] []
+[2017-02-17 08:43:16] Fox.ERROR: 提现余额记录失败！ {"id":"23213ddas","money":"1"} []

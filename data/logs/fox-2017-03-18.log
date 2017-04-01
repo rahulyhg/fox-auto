@@ -1,0 +1,4 @@
+[2017-03-18 20:30:44] Jqh.ERROR: API [GET]:/:controller, Params:Array (     [controller] => SetMeal ) , InputData:  - SQLSTATE[42000]: Syntax error or access violation: 1064 Erreur de syntaxe près de 'ASC LIMIT 0, 20' à la ligne 1 [] []
+[2017-03-18 20:30:44] Jqh.ERROR: Display Error: SQLSTATE[42000]: Syntax error or access violation: 1064 Erreur de syntaxe près de 'ASC LIMIT 0, 20' à la ligne 1, Code: 42000 URL: /api/v1/SetMeal?maxSize=20&offset=0&sortBy=name&asc=true [] []
+[2017-03-18 20:30:47] Jqh.ERROR: API [GET]:/:controller, Params:Array (     [controller] => Account ) , InputData:  - SQLSTATE[42S22]: Column not found: 1054 Champ 'account.balances' inconnu dans field list [] []
+[2017-03-18 20:30:47] Jqh.ERROR: Display Error: SQLSTATE[42S22]: Column not found: 1054 Champ 'account.balances' inconnu dans field list, Code: 42S22 URL: /api/v1/Account?maxSize=20&offset=0&sortBy=name&asc=true [] []

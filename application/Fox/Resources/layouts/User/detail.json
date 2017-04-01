@@ -1,0 +1,26 @@
+[
+    {
+        "label": "Overview",
+        "rows": [
+            [{"name":"userName"}, false],
+            [{"name": "name"}, {"name": "title"}],
+            [{"name": "emailAddress"}, {"name": "phoneNumber"}]
+        ]
+    },
+    {
+        "label": "Teams and Access Control",
+        "rows": [
+            [{"name":"isActive"}, {"name":"isAdmin"}],
+            [{"name":"teams"}, {"name":"isPortalUser"}],
+            [{"name":"roles"}, {"name":"defaultTeam"}]
+        ]
+    },
+    {
+        "label": "Portal",
+        "name": "portal",
+        "rows": [
+            [{"name":"portals"}, {"name":"contact"}],
+            [{"name":"portalRoles"}, {"name":"accounts"}]
+        ]
+    }
+]

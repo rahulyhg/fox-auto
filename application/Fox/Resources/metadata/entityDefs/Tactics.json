@@ -1,0 +1,76 @@
+{
+    "fields": {
+        "name": {
+            "type": "enum",
+            "options": [1, 2, 3, 4],
+            "default": 1,
+            "required": true
+        },
+        "reason": {
+            "type": "link",
+            "readOnly": true
+        },
+        "status": {
+            "type": "enum-check",
+            "options": [0, 1, 2, 5],
+            "default": 0,
+            "readOnly": true
+        },
+        "v1": {
+            "type": "varchar",
+            "required": true
+        },
+        "v2": {
+            "type": "varchar"
+        },
+        "v3": {
+            "type": "varchar"
+        },
+        "v4": {
+            "type": "varchar"
+        },
+        "desc": {
+            "type": "varchar"
+        },
+
+        "createdAt": {
+            "type": "datetime",
+            "readOnly": true
+        },
+        "auditAt": {
+            "type": "datetime",
+            "readOnly": true
+        },
+        "createdBy": {
+            "type": "link",
+            "readOnly": true
+        },
+        "auditBy": {
+            "type": "link",
+            "readOnly": true
+        }
+    },
+    "links": {
+        "reason": {
+            "type": "belongsTo",
+            "entity": "reason"
+        },
+        "createdBy": {
+            "type": "belongsTo",
+            "entity": "User"
+        },
+        "auditBy": {
+            "type": "belongsTo",
+            "entity": "User"
+        }
+    },
+    "collection": {
+        "sortBy": "name",
+        "asc": true
+    },
+    "indexes": {
+        "name": {
+            "columns": ["name", "deleted"]
+        }
+    }
+}

@@ -1,0 +1,7 @@
+[
+    {"name":"name","link":true},
+    {"name":"openId", "notSortable": true, "width": 25},
+    {"name":"balances"},
+    {"name":"blockedBalances"},
+    {"name":"parent"}
+]

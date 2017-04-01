@@ -1,0 +1,30 @@
+{
+    "fields": {
+        "name": "审核理由",
+
+        "type": "审核模块类型",
+        "status": "审核状态类型"
+
+    },
+    "links": {
+
+    },
+    "labels": {
+        "Create Reason": "添加审核理由"
+    },
+    "options": {
+        "status": {
+            "1": "通过",
+            "2": "否决"
+        },
+        "type": {
+            "Tactics": "其他策略",
+            "SetMeal": "套餐包",
+            "OrdersLimit": "流量包数量限制",
+            "Orders": "订单"
+        }
+    },
+    "actions": {
+
+    }
+}

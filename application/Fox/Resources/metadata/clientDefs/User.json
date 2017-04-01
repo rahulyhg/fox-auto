@@ -1,0 +1,18 @@
+{
+   "views": {
+      "detail": "views/user/detail",
+      "list": "views/user/list"
+   },
+   "recordViews":{
+      "detail":"views/user/record/detail",
+      "detailQuick":"views/user/record/detail-quick",
+      "edit":"views/user/record/edit",
+      "editQuick":"views/user/record/edit",
+      "list":"views/user/record/list"
+   },
+   "filterList": [
+      "active",
+      "activePortal"
+   ],
+   "boolFilterList": ["onlyMyTeam"]
+}

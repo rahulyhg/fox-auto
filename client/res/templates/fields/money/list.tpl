@@ -1,0 +1,1 @@
+{{getMoney value}}元

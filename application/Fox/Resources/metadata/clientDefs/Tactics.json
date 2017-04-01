@@ -1,0 +1,22 @@
+{
+   "controller": "controllers/record",
+   "views": {
+
+   },
+   "recordViews":{
+      "list":"views/set-meal/record/list",
+      "detail": "views/set-meal/record/detail"
+   },
+   "sidePanels": {
+
+   },
+   "relationshipPanels": {
+
+   },
+   "boolFilterList": ["onlyMy"],
+   "additionalLayouts": {
+      "detailConvert": {
+         "type": "detail"
+      }
+   }
+}

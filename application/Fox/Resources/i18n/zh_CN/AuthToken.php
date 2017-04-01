@@ -1,0 +1,11 @@
+<?php
+return array (
+  'fields' => 
+  array (
+    'user' => '用户',
+    'ipAddress' => 'IP地址',
+    'lastAccess' => '最后访问时间',
+    'createdAt' => '登录时间',
+  ),
+);
+?>

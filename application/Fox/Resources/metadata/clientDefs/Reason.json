@@ -1,0 +1,19 @@
+{
+   "controller": "controllers/record",
+   "views": {
+
+   },
+
+   "sidePanels": {
+
+   },
+   "relationshipPanels": {
+
+   },
+   "boolFilterList": ["onlyMy"],
+   "additionalLayouts": {
+      "detailConvert": {
+         "type": "detail"
+      }
+   }
+}

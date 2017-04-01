@@ -1,0 +1,5 @@
+[2017-03-10 07:06:22] Fox.ERROR: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'zzcrm_dev.orders_img' doesn't exist [] []
+[2017-03-10 08:27:33] Fox.ERROR: API [DELETE]:/:controller/:id, Params:Array (     [controller] => Orders     [id] => 58bfc97734c5ea1c5 ) , InputData:  -  [] []
+[2017-03-10 08:27:33] Fox.ERROR: Display Error: , Code: 403 URL: /api/v1/Orders/58bfc97734c5ea1c5 [] []
+[2017-03-10 09:07:49] Fox.ERROR: Json::decode():Invalid or malformed JSON [] []
+[2017-03-10 09:07:49] Fox.EMERGENCY: Syntax error in application\Fox\Resources\metadata\clientDefs\Reason.json [] []
